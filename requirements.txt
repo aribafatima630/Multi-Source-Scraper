@@ -2,9 +2,9 @@ requests
 beautifulsoup4
 trafilatura
 youtube-transcript-api
-google-api-python-client
+yt-dlp
 biopython
-spacy
 langdetect
 langchain
 langchain-text-splitters
+python-dotenv
