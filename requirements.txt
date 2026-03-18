@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+trafilatura
+youtube-transcript-api
+google-api-python-client
+biopython
+spacy
+langdetect
+langchain
+langchain-text-splitters
